@@ -1,0 +1,8 @@
+body{
+  border: 10px solid red !important;
+  display: flex;
+}
+
+.card{
+  width: 350px;
+}
